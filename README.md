@@ -29,5 +29,4 @@ Visit my Google Cloud Skill Boost Profile -> **https://www.cloudskillsboost.goog
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gaurav-creater317&show_icons=true&locale=en&layout=compact" alt="gaurav-creater317" /></p><p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gaurav-creater317&show_icons=true&locale=en" alt="gaurav-creater317" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-creater317&" alt="gaurav-creater317" /></p>
+                    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gaurav-creater317&" alt="gaurav-creater317" /></p>
