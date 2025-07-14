@@ -5,9 +5,16 @@
 
 
 
-- 🌱 I’m currently learning **Java Script ,Reactjs, Html , Css & Java**
+- 🌱 I’m currently learning **Java Script ,Reactjs, , Nextjs , Html , Css & Java**
+  
+- Google Cloud Arcade Participant 🌥
+I'm excited to share my journey with Google Cloud Arcade, where I've learned and grown my skills in cloud computing.
+Visit my Google Cloud Skill Boost Profile -> **https://www.cloudskillsboost.google/public_profiles/2c5d3eef-648d-40e7-a4d9-99eb59823e4e**
 
-- 💬 Ask me about **DS(Data Structures ) , OOPS(Object Oriented Programming) , Java Programming , Java Script (JS) , HTML & CSS concepts and their implementation in projects.** 
+
+
+
+- 💬 Ask me about ** DBMS(Data Base Management System) , OS(Operating Systems) , CN(Computer Networks) DS(Data Structures ) , OOPS(Object Oriented Programming) , Java Programming , Java Script (JS) , HTML , CSS & AI(Artificial Intelligence) concepts and their implementation in projects.** 
 
 - 📫 Reach me at : email id  ->  **gauravmehra26337@gmail.com** , Whatsapp -> **7983680756**
 
