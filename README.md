@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning **Java Script ,Reactjs, , Nextjs , Html , Css & Java**
+- 🌱 I’m currently learning ** AI and Cloud Technologies , Generative AI , Java Script ,Reactjs, , Nextjs , Html , Css & Java**
   
 - Google Cloud Arcade Participant 🌥
 I'm excited to share my journey with Google Cloud Arcade, where I've learned and grown my skills in cloud computing.
