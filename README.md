@@ -1,8 +1,8 @@
-<h1 align="left">Hii 👋I 'm  Gaurav Mehra</h1>
+<h1 align="center">Hii 👋I 'm  Gaurav Mehra</h1>
 
 ###
 
-<h2 align="left">A passionate student from India .</h2>
+<h2 align="center">Arcade Aspirant @Google Cloud , Cloud Technologies and Web Development Enthusiast  </h2>
 
 ###
 
