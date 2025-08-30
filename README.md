@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left"> 🌱 Arcade Aspirant @GoogleCloud  |  B.tech (C.S.E) @BIAS  | 🌥  Cloud Technologies &   🚀 Web Development Enthusiast | ❄ Technical Blogger @DevCommunity </h2>
+<h2 align="left"> 🌱 Arcade Aspirant @GoogleCloud  |  B.tech (C.S.E) @BIAS  | 🌥  Cloud Technologies | 🚀 Web Development Enthusiast | ❄ Technical Blogger @DevCommunity </h2>
 
 ###
 
