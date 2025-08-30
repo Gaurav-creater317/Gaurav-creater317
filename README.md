@@ -1,8 +1,8 @@
-<h1 align="left">Hey! 👋I 'm  Gaurav Mehra</h1>
+<h1 align="left">Hey! 👋I 'm  Gaurav Mehra 💫 </h1>
 
 ###
 
-<h2 align="left"> 🌱 Arcade Aspirant @GoogleCloud  |  B.tech(C.S.E) @BIAS  | 🌥  Cloud Technologies and 🚀 Web Development Enthusiast  </h2>
+<h2 align="left"> 🌱 Arcade Aspirant @GoogleCloud  |  B.tech(C.S.E) @BIAS  | 🌥  Cloud Technologies and 🚀 Web Development Enthusiast | ❄ Technical Blogger @DevCommunity </h2>
 
 ###
 
