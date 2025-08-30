@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">🌱 Arcade Aspirant @Google Cloud , 🌥 Cloud Technologies and 🚀 Web Development Enthusiast  </h2>
+<h2 align="left">🌱Arcade Aspirant @GoogleCloud , 🌥 Cloud Technologies and 🚀 Web Development Enthusiast  </h2>
 
 ###
 
